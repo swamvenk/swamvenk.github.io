@@ -9,34 +9,41 @@
     --bg:#14100d; --surface:#1d1713; --surface2:#241d17;
     --wood:#6b3f23; --wood-light:#9a5c33;
     --amber:#ffb347; --flame:#ff7a1a; --ember:#ffd9a0;
-    --text:#f0e6d8; --muted:#c9b9a6; --line:#3a2f24;
+    --text:#f4ece0; --muted:#d9ccb8; --line:#43382c;
     --good:#a8d5a2;
   }
   *{box-sizing:border-box}
   body{
-    margin:0; font-family:Georgia,'Times New Roman',serif;
+    margin:0;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     color:var(--text); background:
       radial-gradient(1200px 500px at 50% -100px, rgba(255,143,26,.18), transparent 60%),
       var(--surface);
-    line-height:1.55;
+    line-height:1.7;
+    font-size:17px;
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
   }
   .wrap{max-width:1100px; margin:0 auto; padding:0 20px 80px}
   header{text-align:center; padding:56px 20px 30px; border-bottom:2px solid var(--line)}
   .eyebrow{letter-spacing:.18em; text-transform:uppercase; font-size:.8rem; color:var(--amber)}
-  h1{margin:.3rem 0 .2rem; font-size:clamp(1.8rem,4vw,2.6rem); color:var(--ember)}
-  .sub{color:var(--muted); max-width:720px; margin:0 auto}
+  h1{margin:.3rem 0 .2rem; font-size:clamp(1.8rem,4vw,2.6rem); color:var(--ember);
+    font-weight:700; letter-spacing:-.01em}
+  .sub{color:var(--muted); max-width:720px; margin:0 auto; font-size:1.05rem}
   .badge{display:inline-block;margin-top:14px;padding:6px 14px;border:1px solid var(--amber);
-    border-radius:999px;color:var(--amber);font-size:.85rem;background:rgba(255,143,26,.08)}
+    border-radius:999px;color:var(--amber);font-size:.9rem;background:rgba(255,143,26,.08)}
   section{max-width:1000px;margin:44px auto 0}
-  h2{font-size:1.4rem;color:var(--amber);border-bottom:1px solid var(--line);padding-bottom:8px;margin-bottom:18px}
+  h2{font-size:1.45rem;color:var(--amber);border-bottom:1px solid var(--line);
+    padding-bottom:8px;margin-bottom:18px;font-weight:650}
   h5{color:var(--ember);margin:0 0 4px}
-  p{color:var(--muted)}
-  table{width:100%;border-collapse:collapse;background:var(--surface);font-size:.92rem;
-    box-shadow:0 4px 20px rgba(0,0,0,.35)}
-  th,td{padding:10px 12px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+  p{color:var(--muted);font-size:1.02rem}
+  table{width:100%;border-collapse:collapse;background:var(--surface);font-size:.95rem;
+    box-shadow:0 4px 20px rgba(0,0,0,.35);border-radius:8px;overflow:hidden}
+  th,td{padding:12px 14px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
   th{background:var(--surface2);color:var(--ember);font-weight:600;white-space:nowrap}
-  td b{color:var(--ember)}
+  td b{color:var(--ember);font-weight:650}
   tr:last-child td{border-bottom:none}
+  tr td{font-weight:400}
   .tot td{font-weight:700;color:var(--amber)}
   .good{color:var(--good)}
   .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin-top:14px}
@@ -48,15 +55,22 @@
   .shop h3{margin:0;color:var(--ember)}
   .shop .room{color:var(--muted);font-size:.85rem}
   .shop .amt{font-weight:700;color:var(--amber);white-space:nowrap}
-  ul{color:var(--muted);padding-left:20px}
-  li{margin:6px 0}
+  ul{color:var(--muted);padding-left:22px;font-size:1.02rem}
+  li{margin:8px 0}
   .num-row{display:inline-block;min-width:2em;color:var(--amber);font-weight:700}
-  code{background:var(--surface2);padding:2px 6px;border-radius:3px;font-size:.85em}
-  footer{margin-top:60px;text-align:center;color:var(--muted);font-size:.85rem;
+  code{background:var(--surface2);padding:2px 6px;border-radius:3px;font-size:.88em}
+  footer{margin-top:60px;text-align:center;color:var(--muted);font-size:.9rem;
     border-top:1px solid var(--line);padding-top:24px}
-  a{color:var(--amber)}
+  a{color:var(--amber);text-decoration:none}
+  a:hover{text-decoration:underline}
   .note{background:rgba(255,200,120,.06);border:1px solid var(--line);border-radius:6px;
-    padding:12px 16px;color:var(--ember);font-size:.9rem}
+    padding:12px 16px;color:var(--ember);font-size:.95rem}
+  @media (max-width:720px){
+    body{font-size:16px}
+    table{display:block;overflow-x:auto;white-space:nowrap}
+    header{padding:40px 16px 24px}
+    .shop{flex-direction:column;gap:4px}
+  }
 </style>
 </head>
 <body>
