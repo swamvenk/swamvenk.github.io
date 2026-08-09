@@ -38,8 +38,9 @@ Prices SGD. "—" = not on list, ask at counter. **Bold = chosen part.**
 | Part | PC Themes | Dynacore | Bizgram | Pick |
 |---|---|---|---|---|
 | 9800X3D + B850M Mortar bundle | 1,023 | **898** | 969 | Dyna |
-| **ProArt 5070 Ti** | not listed | **1,819** | 1,899 | Dyna |
-| 5070 Ti (cheapest) | 1,370 (GALAX EX Gamer) | — | — | PCT (if dropping ProArt) |
+| **ProArt 5070 Ti** | not listed | **1,819** | 1,999 | Dyna — haggle toward ~1,700 |
+| GPU save-alternates (fit wood look) | Prime 1,699 | Prime **PROMO** · Ventus 3X 1,809 | **Palit Gaming Pro S 1,629** · TUF 1,989 · Prime 1,899 · ZOTAC SOLID 1,799 | Biz (Palit) |
+| 5070 Ti (cheapest) | 1,370 (GALAX EX Gamer — white gamer-RGB, avoid) | — | — | — |
 | **T-Create Expert 6000 CL30** | — | **639** | 679 | Dyna — clean non-RGB bar |
 | Corsair Vengeance RGB 6000 CL30 | — | 789 | — | skip — tall (51mm) |
 | Crucial T500 2TB | — | **569** | 349 (1TB, ambiguous) | Dyna |
@@ -53,6 +54,13 @@ Notes:
 - Seasonic Focus V4 is **SPL Tier A** (ATX 3.1, 150mm, native 12V-2x6).
 - Bundle beats separating at every shop; PC Themes' bundle ($1,023) does NOT
   undercut Dyna/Biz.
+- **ProArt haggle:** Bizgram lists it at **$1,999**, so Dyna's $1,819 is already
+  −$180. Point at Dyna's Prime/TUF **PROMO** rows + the Palit $1,629 (Biz)
+  quote → ask Dyna for ~$1,700.
+- **Wood-look GPU save-alternates** (same 5070 Ti class, no gamer RGB):
+  ASUS Prime (PROMO Dyna / 1,699 PCT / 1,899 Biz), Palit Gaming Pro S $1,629 Biz,
+  ASUS TUF (PROMO Dyna / 1,989 Biz), MSI Ventus 3X $1,809 Dyna, ZOTAC SOLID $1,799
+  Biz. Avoid white cards (Gaming Trio White, Aero) and gamer-RGB (GALAX EX Gamer).
 
 ---
 
@@ -112,17 +120,19 @@ Mortar's 3× JARGB_V2. 9 × $25 = **$225**. Cheaper: 5× A-RGB intake + 4× plai
 
 ## Negotiation & call-outs
 
-1. **PSU lever:** PC Themes has the Focus V4 at **$207** — bounce Dyna's $209.
-2. **Fans multi-buy:** ask Biz for a break on 9 Arctic fans at once.
-3. **GPU lever:** if you ever drop the ProArt, PC Themes' GALEX **5070 Ti**
-   at **$1,370** undercuts every row.
+1. **ProArt haggle (main ask):** Bizgram lists ProArt 5070 Ti at **$1,999** →
+   Dyna's $1,819 is already −$180. Point at Dyna's Prime/TUF **PROMO** rows and
+   Palit's $1,629 (Biz) → ask Dyna for ~**$1,700**. If they hold firm, take the
+   Prime (PROMO) or Palit $1,629 — same wood-friendly look.
+2. **PSU lever:** PC Themes has the Focus V4 at **$207** — bounce Dyna's $209.
+3. **Fans multi-buy:** ask Biz for a break on 9 Arctic fans at once.
 4. **One-counter bundle:** be company at each counter (Dyna: 5 parts; Biz:
    fans+cooler) before asking for the discount.
 5. **Pay cash / PayNow** at all counters.
 6. **Read the box (avoid swaps):**
    - T-Create Expert 6000 **CL30**, not CL36
    - Crucial T500 **2TB DRAM**, not the DRAM-less 2TB
-   - ProArt 5070 Ti **16G GDDR7**, exact OC/non-OC label
+   - GPU 5070 Ti **16G GDDR7** — exact model (ProArt/Prime/TUF/Palit)
    - Seasonic **Focus GX-850W v4** ATX 3.1, Tier A
    - Arctic P12 Pro **A-RGB — match reverse vs normal blades**
 
