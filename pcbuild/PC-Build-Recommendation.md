@@ -147,3 +147,62 @@ Mortar's 3× JARGB_V2. 9 × $25 = **$225**. Cheaper: 5× A-RGB intake + 4× plai
 **Final:** ~**$4,574** (9× A-RGB) or ~**$4,542** (mixed intake-only RGB),
 both at 2 shops + custom, using only the trusted trio, keeping the ProArt
 and the warm fireplace look.
+
+---
+
+# As-Built — 09 Aug 2026 (planned vs bought)
+
+Everything below supersedes the pre-trip totals above. The visit happened;
+parts were swapped on site. This section records what actually was bought
+and how much it saved.
+
+## What changed on site
+
+| # | Change | Plan | Built | Δ |
+|---|---|---|---|---|
+| 1 | **PSU** | Seasonic Focus GX-850W V4 (SPL Tier A) | **ASUS TUF Gaming 850W Gold EVO** (SPL Tier A, ATX 3.1) | **−70** |
+| 2 | **SSD** | Crucial T500 2TB | **2× WD Black SN850X 1TB** (both M.2 slots) | **−31** |
+| 3 | **Fans** | 9-fan layout (9× P12 Pro A-RGB / mixed) | **7-fan**: 5× A-RGB Reverse + 2× P12 Pro PST | −66* |
+| 4 | **Cooler** | AK620 G2 | **AK620 G2 Digital NYX** | +15 |
+| 5 | **Thermal paste** | — (not planned) | Arctic **MX-7** 4g | +10 |
+| 6 | **Case** | Jonsbo D33 Black Wood (~135, counter) | not at any SG distributor → **order online separately** | TBD |
+
+\* Fan saving: −$66 vs the 9× A-RGB plan (225→159); −$15 more vs the planned
+7-fan (A-RGB came in at $22 ea), giving 5×22 + 2×17 = **$144** actual.
+
+## Dynacore (#05-73) — one bundle price
+
+| Item | Planned | Notes |
+|---|---|---|
+| 9800X3D + MSI B850M Mortar WIFI (bundle) | 898 | no per-item price on bill — total bundle cost |
+| ASUS **ProArt 5070 Ti** 16G GDDR7 | 1,819 | |
+| T-Create Expert 6000 CL30 32GB | 639 | |
+| **2× WD Black SN850X 1TB** | 538 (−31) | swap: was Crucial T500 2TB 569 |
+| **ASUS TUF 850W Gold EVO** | 139 (−70) | swap: was Seasonic Focus V4 209 |
+| **Planned subtotal** | **4,033** | |
+| **Paid (incl GST, one total)** | **4,021** | **−12** — bundle price absorbed the swaps + haggle |
+
+## Bizgram (#05-50)
+
+| Item | Planned | Actual |
+|---|---|---|
+| AK620 G2 **Digital NYX** | 80 | **95** |
+| Arctic **P12 Pro A-RGB Reverse ×5** | 125 (25 ea) | **110** (22 ea) |
+| Arctic **P12 Pro PST ×2** | 34 | 34 |
+| Arctic **MX-7** paste | — | **10** |
+| **Subtotal** | **239** | **249** |
+
+## Case — Jonsbo D33 Black Wood
+
+No Singapore shop carries it yet (distributor hasn't listed it). Plan B:
+order online from a third party. Cost ~135 + shipping, final TBD.
+
+## Bottom line
+
+- **Planned total (incl case):** ~ **4,407**
+- **Actual on-site spend:** **4,270** (Dyna 4,021 + Biz 249; case excluded)
+- **Saved on-site:** ~**137** vs the planned trip
+- vs the original **9-fan all-ARGB 4,574** plan → **~304 saved**
+- Once the ~135 case lands, final lands **~4,405**, essentially at plan.
+
+**This section supersedes the earlier 9-fan / mixed-option totals.**

@@ -81,3 +81,25 @@ Notes:
 - One-trip store-by-store shopping order.  (next)
 - Negotiation + discount call-outs.
 - Final estimated total vs $4,442 baseline.
+
+---
+
+## As-Built Addendum — 09 Aug 2026 (planned vs bought)
+
+Supersedes the totals above. On-site swaps + what they saved:
+
+| Change | Plan | Built | Δ |
+|---|---|---|---|
+| PSU | Seasonic Focus GX-850W V4 (Tier A) | **ASUS TUF 850W Gold EVO** (Tier A, ATX 3.1) | −70 |
+| SSD | Crucial T500 2TB | **2× WD Black SN850X 1TB** | −31 |
+| Fans | 9-fan | **7-fan**: 5× A-RGB Reverse + 2× P12 Pro PST | −66* |
+| Cooler | AK620 G2 | **AK620 G2 Digital NYX** | +15 |
+| Paste | — | Arctic **MX-7** | +10 |
+| Case | D33 (~135 counter) | **online order** (no SG distributor stock) | TBD |
+
+\* Fans paid 144 actual (5×22 + 2×17); −66 vs the 9× A-RGB 225, −15 more vs the planned 7-fan 159.
+
+- **Dynacore (bundle, no per-item):** planned 4,033 → **paid 4,021** (incl GST) = −12
+- **Bizgram:** planned 239 → **paid 249** (cooler 95, fans 110, PST 34, MX-7 10) = +10
+- **On-site total: 4,270** (excl case) vs planned 4,407 → **~137 saved**
+- vs original all-ARGB 4,574 → **~304 saved**; final incl online case ~4,405 ≈ plan
