@@ -16,13 +16,14 @@ Sim Lim Square shops, buying from as few stores as possible.
 | CPU + Mobo | Ryzen 7 9800X3D + MSI B850M Mortar WIFI (bundle) | **$1023 PCT** / $969 Biz / $898 Dyna |
 | GPU | Asus ProArt RTX 5070 Ti 16GB | $1,819 Dyna / $1,899 Biz |
 | Cooler | DeepCool AK620 G2 (wood accent) | $80 Biz |
-| RAM | Team T-Force Delta RGB 6000 32GB — **46.1mm tall** | $679 Dyna — **requires AK620 front fan raised ~5mm** (default 43mm clearance; 59mm in single-fan pos) |
+| RAM | **Team T-Create Expert 6000 CL30 32GB (non-RGB)** | **$639 Dyna** — low-profile (~36mm), fits under AK620 43mm default, no fan mod, has EXPO profile |
 | SSD | Crucial T500 2TB (DRAM, Gen4) | $569 Dyna |
 | PSU | Seasonic Focus GX-850W V4 (ATX 3.1) | $209 Dyna, SPL Tier A |
 | **Fans** | **Arctic P12 Pro A-RGB ×9** — 5 reverse (bottom 3 + front 2) intake, 4 normal (top 3 + rear 1) exhaust | **$25 ea × 9 = $225 Biz** |
 | Case | Jonsbo D33 Black Wood | not on list (~$135, ask) |
-| **Baseline total (old fans)** | | **~$4,442** |
-| **New total (Arctic 9-fan)** | | **~$4,614** |
+| **Baseline total (old fans)** | | **~$4,402** |
+| **New total (T-Create + Arctic 9-fan, all-ARGB)** | | **~$4,574** |
+| Mixed fans (5 ARGB + 4 PST) | | **~$4,542** |
 
 ## Price Comparison Matrix (Aug 2026 lists)
 | Part | Bizgram | Dynacore | PC Themes | Winner |
@@ -31,7 +32,8 @@ Sim Lim Square shops, buying from as few stores as possible.
 | 9800X3D + MSI Mortar (split) | — | — | board 364 + CPU (see matrix) | |
 | Asus ProArt 5070 Ti 16G | $1,899 | **$1,819** | ProArt not listed (cheapest 5070 Ti: GALAX EX Gamer $1370, Windforce $1499; Prime Ti 1699) | Dyna |
 | DeepCool AK620 G2 | **$80** | not listed | — | Biz |
-| Team T-Force Delta 6000 CL30 | — | **$679** | — | Dyna |
+| Team T-Force Delta RGB 6000 CL30 (old pick) | — | $679 | — | dropped — 46.1mm needs fan mod |
+| **Team T-Create Expert 6000 CL30 (non-RGB)** | $679 | **$639** | — | Dyna — low-profile, EXPO |
 | Corsair Vengeance RGB 6000 CL30 | — | $789 | — | Dyna |
 | Crucial T500 2TB | $349 (T500/MP441 row, ambiguous) | **$569 (T500 Pro)** | — | Dyna |
 | Seasonic Focus GX-850W V4 (v4 Black) | — | $209 | **$207** | PCT (−$2) |

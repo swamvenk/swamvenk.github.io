@@ -14,18 +14,18 @@ PC Themes) buying from as few stores as possible, keeping the ProArt GPU
 
 | Stop | Shop (SLS) | Buy here | $ |
 |---|---|---|---|
-| 1 | **Dynacore** #05-73 | 9800X3D + MSI B850M Mortar bundle, **ProArt 5070 Ti**, T-Force Delta RGB 6000 CL30, Crucial T500 2TB, **Seasonic Focus GX-850W V4** | 4,174 |
+| 1 | **Dynacore** #05-73 | 9800X3D + MSI B850M Mortar bundle, **ProArt 5070 Ti**, T-Create Expert 6000 CL30, Crucial T500 2TB, **Seasonic Focus GX-850W V4** | 4,134 |
 | 2 | **Bizgram** #05-50 | DeepCool AK620 G2, **Arctic P12 Pro A-RGB ×9** (5 reverse + 4 normal) | 305 |
 | — | special order | Jonsbo D33 Black Wood (see Case) | ~135 |
-| | | **Estimated total** | **~4,614** |
+| | | **Estimated total** | **~4,574** |
 
 Breakdown:
-- **Dynacore:** bundle **898** + ProArt 5070 Ti **1,819** + T-Force Delta CL30 **679** + Crucial T500 2TB **569** + Seasonic Focus GX-850W V4 **209** = **4,174**
+- **Dynacore:** bundle **898** + ProArt 5070 Ti **1,819** + T-Create Expert CL30 **639** + Crucial T500 2TB **569** + Seasonic Focus GX-850W V4 **209** = **4,134**
 - **Bizgram:** DeepCool AK620 G2 **80** + 9× Arctic P12 Pro A-RGB **225** = **305**
 - **Case:** Jonsbo D33 Black Wood ~135, ask
 
-**~4,614 total** with all-ARGB lighting. **Save $32 with the mixed option**
-(5× A-RGB intake + 4× plain P12 Pro PST top/rear = $193 fans) → **~4,582**.
+**~4,574 total** with all-ARGB lighting. **Save $32 with the mixed option**
+(5× A-RGB intake + 4× plain P12 Pro PST top/rear = $193 fans) → **~4,542**.
 Baseline with old 3-fan config was **~4,050**; this is the price of the new
 9-fan / full ARGB layout the user wanted.
 
@@ -40,7 +40,8 @@ Prices SGD. "—" = not on list, ask at counter. **Bold = chosen part.**
 | 9800X3D + B850M Mortar bundle | 1,023 | **898** | 969 | Dyna |
 | **ProArt 5070 Ti** | not listed | **1,819** | 1,899 | Dyna |
 | 5070 Ti (cheapest) | 1,370 (GALAX EX Gamer) | — | — | PCT (if dropping ProArt) |
-| T-Force Delta 6000 CL30 | — | **679** | — | Dyna |
+| **T-Create Expert 6000 CL30** | — | **639** | 679 | Dyna — clean non-RGB bar |
+| Corsair Vengeance RGB 6000 CL30 | — | 789 | — | skip — tall (51mm) |
 | Crucial T500 2TB | — | **569** | 349 (1TB, ambiguous) | Dyna |
 | **Seasonic Focus GX-850W V4** | 207 | **209** | — | Dyna (Tier A) |
 | AK620 G2 (wood) | — | — | **80** | Biz |
@@ -85,9 +86,8 @@ Mortar's 3× JARGB_V2. 9 × $25 = **$225**. Cheaper: 5× A-RGB intake + 4× plai
 - **Not in stock on any list.** Wood front + black body; supports GPU ≤435mm
   (ProArt 306mm ✓), cooler ≤172mm ✓, 9 fan positions ✓.
 - Expect **~$135–165** counter custom price; ask for a pre-order.
-- **Clearances:** T-Force Delta RAM is 46.1mm — AK620's default fan position
-  clears 43mm, so **raise AK620's front fan ~5mm** (free clip-slide, 59mm in
-  single-fan pos). Do NOT swap to taller Corsair Vengeance RGB (~51mm).
+- **Clearances:** T-Create Expert is low-profile (~36mm) — clears the AK620's
+  default fan position (43mm) with room to spare; no fan mod needed.
 
 ---
 
@@ -120,7 +120,7 @@ Mortar's 3× JARGB_V2. 9 × $25 = **$225**. Cheaper: 5× A-RGB intake + 4× plai
    fans+cooler) before asking for the discount.
 5. **Pay cash / PayNow** at all counters.
 6. **Read the box (avoid swaps):**
-   - T-Force Delta 6000 **CL30**, not CL36
+   - T-Create Expert 6000 **CL30**, not CL36
    - Crucial T500 **2TB DRAM**, not the DRAM-less 2TB
    - ProArt 5070 Ti **16G GDDR7**, exact OC/non-OC label
    - Seasonic **Focus GX-850W v4** ATX 3.1, Tier A
@@ -134,6 +134,6 @@ Mortar's 3× JARGB_V2. 9 × $25 = **$225**. Cheaper: 5× A-RGB intake + 4× plai
 - Snapshot Aug 2026 (web + printed PDFs); confirm same-day prices.
 - Bottom fans under the GPU add glow more than cooling — expected.
 
-**Final:** ~**$4,614** (9× A-RGB) or ~**$4,582** (mixed intake-only RGB),
+**Final:** ~**$4,574** (9× A-RGB) or ~**$4,542** (mixed intake-only RGB),
 both at 2 shops + custom, using only the trusted trio, keeping the ProArt
 and the warm fireplace look.
