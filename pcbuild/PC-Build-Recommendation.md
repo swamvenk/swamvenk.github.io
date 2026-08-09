@@ -1,83 +1,100 @@
 # PC Build — Walk-Around Min-Max Recommendation
 
-**Prices:** SGD cash / PayNow unit prices, snapshot as of 7 Aug 2026, Sim Lim
+**Prices:** SGD cash / PayNow unit prices, snapshot Aug 2026, Sim Lim
 Square. **Verify at counter** — lists are indicative; haggling is expected.
 
-**Goal:** lowest total with **3 shops**, prioritizing the **top-recommended
-stores**, keeping the ProArt GPU (wood accent) and the wood / fireplace
-aesthetic.
-
-**The 3 shops:** PC Themes (#04-15) + Dynacore (#05-73) + Bizgram (#05-50).
+**Goal:** lowest total from the **trusted trio** (Bizgram / Dynacore /
+PC Themes) buying from as few stores as possible, keeping the ProArt GPU
+(wood accent) and the warm wood / fireplace aesthetic — with a full
+**9-fan** Arctic setup.
 
 ---
 
-## Final Plan — 3 stops
+## Final Plan — 2 shops, one trip (+ case order)
 
 | Stop | Shop (SLS) | Buy here | $ |
 |---|---|---|---|
-| 1 | **PC Themes** #04-15 | ASUS **ProArt 5070 Ti** 16GB (wood-accent GPU) | 1,649 |
-| 2 | **Dynacore** #05-73 | 9800X3D + MSI B850M Mortar bundle, T-Force Delta RGB 6000 CL30, **Corsair RM850e** | 1,756 |
-| 3 | **Bizgram** #05-50 | Crucial T500 2TB, DeepCool AK620 G2, **Arctic P12 Pro PST LN** x3 | 480 |
-| — | special order | Jonsbo D33 Black Wood (see Case) | ~165 |
-| | | **Estimated total** | **~4,050** |
+| 1 | **Dynacore** #05-73 | 9800X3D + MSI B850M Mortar bundle, **ProArt 5070 Ti**, T-Force Delta RGB 6000 CL30, Crucial T500 2TB, **Seasonic Focus GX-850W V4** | 4,174 |
+| 2 | **Bizgram** #05-50 | DeepCool AK620 G2, **Arctic P12 Pro A-RGB ×9** (5 reverse + 4 normal) | 305 |
+| — | special order | Jonsbo D33 Black Wood (see Case) | ~135 |
+| | | **Estimated total** | **~4,614** |
 
 Breakdown:
-- **PC Themes:** ProArt 5070 Ti **1,649**
-- **Dynacore:** 9800X3D + B850M Mortar **898** + T-Force Delta CL30 **679** + Corsair RM850e **179** = **1,756**
-- **Bizgram:** Crucial T500 2TB **349** + DeepCool AK620 G2 **80** + 3x Arctic P12 Pro PST **51** = **480**
-- **Case:** Jonsbo D33 Black Wood **~165**
+- **Dynacore:** bundle **898** + ProArt 5070 Ti **1,819** + T-Force Delta CL30 **679** + Crucial T500 2TB **569** + Seasonic Focus GX-850W V4 **209** = **4,174**
+- **Bizgram:** DeepCool AK620 G2 **80** + 9× Arctic P12 Pro A-RGB **225** = **305**
+- **Case:** Jonsbo D33 Black Wood ~135, ask
 
-**~4,050 total** — ~$382 below the $4,432 baseline, using only trusted shops
-and the ProArt (not the cheapest, highest-rep GPU spot). If you ever want to
-revert to the cheapest route, TechDeals would have shaved ~$400.
+**~4,614 total** with all-ARGB lighting. **Save $32 with the mixed option**
+(5× A-RGB intake + 4× plain P12 Pro PST top/rear = $193 fans) → **~4,582**.
+Baseline with old 3-fan config was **~4,050**; this is the price of the new
+9-fan / full ARGB layout the user wanted.
 
 ---
 
-## Per-part matrix (7 shops)
+## Per-part matrix (trio)
 
 Prices SGD. "—" = not on list, ask at counter. **Bold = chosen part.**
 
-| Part | PC Themes | Dynacore | Bizgram | TechDeals | Fuwell | Infinity | Laser |
-|---|---|---|---|---|---|---|---|
-| 9800X3D + B850M Mortar bundle | 1,035 (split) | **898** | 969 | 1,013 | 987 | — | — |
-| 9800X3D + cheapest board | — | — | — | 801 (ASRock) | — | — | — |
-| **ProArt 5070 Ti** | **1,649** | 1,819 | 1,999 | — | — | — | ask |
-| 5070 Ti (cheapest) | 1,861 (PRIME) | — | 1,629 (Palit) | 1,299 | 1,429 | 1,429 | ask |
-| T-Force Delta 6000 CL30 | — | **679** | — | — | — | 639 | — |
-| Crucial T500 2TB | — | 569 | **349** | — | — | 699 | — |
-| **Corsair RM850e** | 208 | **179** | 209 | 218 | — | 189 | 206 |
-| MSI A850GL 850W | 149 | 132 | — | — | — | — | — |
-| AK620 / AK620 G2 | — | — | G2 **80** | — | — | — | Digital 88 |
-| **Arctic P12 Pro PST LN** | — | 16 | **17** | 15 | — | — | — |
-| Arctic P12 Pro ARGB | — | — | 25 | 20 | — | — | — |
-| CF120+ x3 | — | — | 53 | — | — | — | — |
-| Jonsbo D33 Wood | — | — | — | order | — | — | — |
+| Part | PC Themes | Dynacore | Bizgram | Pick |
+|---|---|---|---|---|
+| 9800X3D + B850M Mortar bundle | 1,023 | **898** | 969 | Dyna |
+| **ProArt 5070 Ti** | not listed | **1,819** | 1,899 | Dyna |
+| 5070 Ti (cheapest) | 1,370 (GALAX EX Gamer) | — | — | PCT (if dropping ProArt) |
+| T-Force Delta 6000 CL30 | — | **679** | — | Dyna |
+| Crucial T500 2TB | — | **569** | 349 (1TB, ambiguous) | Dyna |
+| **Seasonic Focus GX-850W V4** | 207 | **209** | — | Dyna (Tier A) |
+| AK620 G2 (wood) | — | — | **80** | Biz |
+| Arctic P12 Pro A-RGB | — | — | **25** | Biz ×9 |
+| Arctic P12 Pro PST (no RGB) | — | 16 | 17 | mixed option |
+| Jonsbo D33 Wood | — | — | — | order / ask |
+
+Notes:
+- Seasonic Focus V4 is **SPL Tier A** (ATX 3.1, 150mm, native 12V-2x6).
+- Bundle beats separating at every shop; PC Themes' bundle ($1,023) does NOT
+  undercut Dyna/Biz.
 
 ---
 
 ## Shopping order (walk from top floor down)
 
-1. **PC Themes #04-15** — ProArt 5070 Ti. Biggest-ticket item first; they have
-   the best price on it. Pay cash.
-2. **Dynacore #05-73** — CPU+Mobo bundle, RAM, PSU. All three on one counter;
-   bundle = goodwill for a small discount on the total.
-3. **Bizgram #05-50** — SSD, cooler, fans. Do all three in one sit to earn the
-   "3-in-1" haggle. Ask whether the P12 Pro stock is the **2000-RPM LN** variant
-   (quiet) or the 3000-RPM Pro.
-4. **Case (any counter / special order)** — Jonsbo D33 Wood.
+1. **Dynacore #05-73** — CPU+Mobo bundle, ProArt GPU, RAM, SSD, PSU. All five on
+   one counter; bundle = goodwill on the total. This is the anchor stop.
+2. **Bizgram #05-50** — AK620 G2 + 9× Arctic P12 Pro A-RGB (specify reverse vs
+   normal blade mix) in one sit — multi-buy haggle on the fans.
+3. **Case (any counter / special order)** — Jonsbo D33 Black Wood.
+
+---
+
+## Fan layout — 9 × Arctic P12 Pro A-RGB
+
+| Position | Count | Blade | Duty |
+|---|---|---|---|
+| Bottom | 3 | **Reverse** | Intake — under-glow + dust filter |
+| Front (with ATX PSU) | 2 | **Reverse** | Intake — glow through the wood slats |
+| Top (bracket) | 3 | Normal | Exhaust |
+| Rear | 1 | Normal | Exhaust |
+
+PST daisy-chaining → 4 fan groups (SYS_FAN1-4) + split light chains across the
+Mortar's 3× JARGB_V2. 9 × $25 = **$225**. Cheaper: 5× A-RGB intake + 4× plain
+**$193**.
 
 ---
 
 ## Case — Jonsbo D33 Black Wood
 
-- **Not in stock on any list.** Overseas ~US$99–117 / RM 429 → SG counter
-  expect **~$140–180**; ask for a pre-order / special order.
-- **TechDeals carries Jonsbo** (D41 on list) — they can order the D33 Wood in;
-  otherwise try PC Themes / Dynacore counters.
-- **Fallback today:** Jonsbo D41 **Mesh** (wood front, same vibe) **~$73–78**
-  (TechDeals) or D41 STD for a wood top panel.
-- AK620 wood cap rarely stocked in SLS — check the cooler counter; plain black
-  is fine, the fans cover it.
+- **Not in stock on any list.** Wood front + black body; supports GPU ≤435mm
+  (ProArt 306mm ✓), cooler ≤172mm ✓, 9 fan positions ✓.
+- Expect **~$135–165** counter custom price; ask for a pre-order.
+- **Clearances:** T-Force Delta RAM is 46.1mm — AK620's default fan position
+  clears 43mm, so **raise AK620's front fan ~5mm** (free clip-slide, 59mm in
+  single-fan pos). Do NOT swap to taller Corsair Vengeance RGB (~51mm).
+
+---
+
+## PSU — Seasonic Focus GX-850W V4
+
+- **Tier A**, ATX 3.1, 150mm (fits D33's 160mm PSU limit, no conflict).
+- **$209 Dyna / $207 PC Themes** — buy with the Dyna bundle, haggle to $207.
 
 ---
 
@@ -85,34 +102,38 @@ Prices SGD. "—" = not on list, ask at counter. **Bold = chosen part.**
 
 - **ProArt 5070 Ti** has a subtle dark-metal + minimalist look that reads well
   against the D33's wood front; keep its accent line visible through the glass.
-- Set every RGB to **warm amber → deep orange** (no cold blue/white). The
-  T-Force Delta RAM, Arctic P12 fans and GPU backplate read as a glowing hearth.
-- **Arctic P12 Pro PST LN** is near-silent (2000-RPM cap, 0-rpm under ~5% PWM)
-  with high static pressure — ideal for the D33 front mesh intake.
-- AK620 G2 is black/no-RGB — fine under the tinted glass.
+- Set every RGB to **warm amber → deep orange** (<code>#FF7B2D → #FFB347</code>),
+  slow breathing ~8–12s — no cold blue/white, no rainbow.
+- **Front 2 reverse fans** sit behind the wood slats → front reads as a glowing
+  hearth; **bottom 3** bounce warm under-glow off the desk.
+- AK620 G2 is black / wood cap — no RGB needed; anchors the top, not the glow.
 
 ---
 
 ## Negotiation & call-outs
 
-1. **Bundle, then haggle:** bring PC Themes' 9800X3D+Mobo **$1,035 split** (and
-   TechDeals' ASRock **$801** bundle) when walking Dynacore's **$898** down.
-2. **GPU lever:** ProArt price is firmest at PC Themes $1,649 — if they flinch,
-   counter with Dynacore's $1,819 quote.
-3. **One-counter bundle:** SSD + cooler + fans at Bizgram in one sit; ask about
-   the AK620 wood cap while you're there.
-4. **Pay cash / PayNow** at all three stops.
-5. **Read the box (avoid swaps):**
+1. **PSU lever:** PC Themes has the Focus V4 at **$207** — bounce Dyna's $209.
+2. **Fans multi-buy:** ask Biz for a break on 9 Arctic fans at once.
+3. **GPU lever:** if you ever drop the ProArt, PC Themes' GALEX **5070 Ti**
+   at **$1,370** undercuts every row.
+4. **One-counter bundle:** be company at each counter (Dyna: 5 parts; Biz:
+   fans+cooler) before asking for the discount.
+5. **Pay cash / PayNow** at all counters.
+6. **Read the box (avoid swaps):**
    - T-Force Delta 6000 **CL30**, not CL36
    - Crucial T500 **2TB DRAM**, not the DRAM-less 2TB
    - ProArt 5070 Ti **16G GDDR7**, exact OC/non-OC label
-   - Arctic P12 Pro **LN** (2000-RPM), not the 3000-RPM Pro
+   - Seasonic **Focus GX-850W v4** ATX 3.1, Tier A
+   - Arctic P12 Pro **A-RGB — match reverse vs normal blades**
 
 ---
 
 ## Caveats
 
-- D33 price is an **estimate** until a counter pre-order quote lands.
-- Snapshot as of 7 Aug 2026 (web + printed PDFs); confirm same-day prices.
+- D33 price is a live-ask estimate until a counter quote lands.
+- Snapshot Aug 2026 (web + printed PDFs); confirm same-day prices.
+- Bottom fans under the GPU add glow more than cooling — expected.
 
-**Final:** ~**$4,050** (3 stops, top shops, ProArt). Baseline **$4,432**.
+**Final:** ~**$4,614** (9× A-RGB) or ~**$4,582** (mixed intake-only RGB),
+both at 2 shops + custom, using only the trusted trio, keeping the ProArt
+and the warm fireplace look.
